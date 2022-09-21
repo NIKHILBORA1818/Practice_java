@@ -12,7 +12,9 @@ public class Main {
 		}else {
 			System.out.println("Alphabet is consonant.");
 		}
-
 	}
-
 }
+
+/* Output:
+Alphabet is consonant.
+*/
