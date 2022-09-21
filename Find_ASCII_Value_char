@@ -1,0 +1,16 @@
+//Find ASCII Value of a character
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		char ch = 'n';
+		int asc = (int) ch;
+		System.out.println("Ascci value of "+ch+ " is: "+asc);
+	}
+
+}
+
+/* Outout :
+Ascci value of n is: 110
+/*
